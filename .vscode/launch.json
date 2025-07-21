@@ -16,10 +16,10 @@
       "skipFiles": [
         "<node_internals>/**"
       ],
-      "envFile": "${workspaceFolder}/tinybookshop/.env1",
+      "envFile": "${workspaceFolder}/tinybookshop/.env2",
       "env": {
         "NODE_ENV": "development",
-        "run.config": "{\"handlerId\":\"cap_run_config_handler_id\",\"runnableId\":\"{\\\"projectPath\\\":\\\"/home/user/tiny-app/tinybookshop\\\",\\\"profileName\\\":\\\"development\\\"}\"}"
+        "run.config": "{\"handlerId\":\"cap_run_config_handler_id\",\"runnableId\":\"{\\\"projectPath\\\":\\\"/home/user/projects/tinybookshop\\\",\\\"profileName\\\":\\\"development\\\"}\"}"
       }
     }
   ]
